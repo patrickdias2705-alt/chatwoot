@@ -1,0 +1,9 @@
+{
+  "buildCommand": "echo 'Build skipped - Chatwoot requires Rails backend'",
+  "framework": null,
+  "installCommand": "echo 'Install skipped'",
+  "devCommand": "echo 'Dev command skipped'",
+  "outputDirectory": "public",
+  "nodeVersion": "22.x"
+}
+
